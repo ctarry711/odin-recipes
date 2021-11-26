@@ -1,1 +1,1 @@
-The repository for my Recipes Project from the Odin Project
+The repository for my Recipes Project from The Odin Project
