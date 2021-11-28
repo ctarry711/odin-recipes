@@ -1,0 +1,19 @@
+h1 {
+    font-size: 28px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.recipes {
+    font-size: 18px;
+}
